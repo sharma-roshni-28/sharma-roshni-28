@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Roshni Sharma
 
-<!--
-**sharma-roshni-28/sharma-roshni-28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer | Aspiring Software Engineer  
+🌱 Learning DSA in Java + Full Stack Development  
+🎯 Goal: Software Developer Role (TCS / Infosys / Accenture)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Java
+- Data Structures & Algorithms
+- HTML
+- CSS
+- JavaScript
+- Python
+- Flask
+- MySQL
+
+---
+
+## 🚀 Projects
+- Portfolio Website (GitHub Pages)
+- Flask Fuzzing Project
+- Fake news detection using machine learning
+
+---
+
+## 📊 GitHub Goals
+- Improve DSA skills
+- Contribute daily on GitHub
+
+---
+
+## 📫 Contact
+- Email: sharmarajvivek82@gmail.com  
+- LinkedIn: www.linkedin.com/in/roshni-sharma1122     
+- GitHub: https://github.com/sharma-roshni-28
