@@ -2,7 +2,7 @@
 
 💻 Java Developer | Aspiring Software Engineer  
 🌱 Learning DSA in Java + Full Stack Development  
-🎯 Goal: Software Developer Role (TCS / Infosys / Accenture)
+🎯 Goal: Software Developer Role
 
 ---
 
